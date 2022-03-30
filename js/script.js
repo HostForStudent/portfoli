@@ -43,7 +43,6 @@ body.addEventListener(
             eventClose();
          }
       }
-      event.preventDefault();
    }
 )
 
