@@ -137,15 +137,7 @@ new Swiper('.swiper', {
       disableOnInteraction: false,
    },
 
-   speed: 800, effect: 'cube',
-   // дополнения
-   cubeEffect: {
-      // настройка тени
-      slideShadows: true,
-      shadow: true,
-      shadowOffset: 20,
-      shadowScale: 0.94
-   },
+   speed: 800, 
 
    navigation: {
       nextEl: '.swiper-button-next',
